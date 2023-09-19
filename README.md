@@ -1,13 +1,11 @@
-# Lab2ECE128
-
-# Adder.V
+# Adder.V 
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
 // Engineer: 
 // 
 // Create Date: 09/12/2023 01:40:48 PM
-// Design Name: a
+// Design Name: 
 // Module Name: Adder
 // Project Name: 
 // Target Devices: 
@@ -56,9 +54,8 @@ module Adder(
     endcase
    end
 endmodule
- 
-  # Adder_tb.v
-  `timescale 1ns / 1ps
+# Adder_tb.v
+`timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
 // Engineer: 
@@ -104,3 +101,4 @@ module Adder_tb();
         end
         
         endmodule
+   
